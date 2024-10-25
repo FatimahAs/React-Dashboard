@@ -1,6 +1,8 @@
 {
   "name": "starter",
   "private": true,
+  "main": "index.html",
+  "homepage": "./",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
