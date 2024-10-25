@@ -2,7 +2,7 @@
   "name": "starter",
   "private": true,
   "main": "index.html",
-  "homepage": "./",
+  "homepage": "./src",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
